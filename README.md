@@ -1,1 +1,1 @@
-# student-database
+# Student-DataBase-Management-System
